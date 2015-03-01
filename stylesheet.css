@@ -4,6 +4,7 @@
 
 img {
   width: 18%;
+  margin: 0%;
 }
 
 h1 {
@@ -75,5 +76,6 @@ margin-right: 15%;
 
 .stuffs p {
   font-family: 'Dosis', sans-serif;
+  display: inline-block;
   text-align: center;
 }
