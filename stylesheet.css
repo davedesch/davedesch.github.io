@@ -66,4 +66,11 @@ h3 {
 
 .stuffs p {
   width: 80%;
+  font-family: 'Open Sans', sans-serif;
+  display: inline-block;
+}
+
+h4 {
+ font-family: 'Dosis', sans-serif;
+ text-align: center;
 }
