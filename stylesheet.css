@@ -22,6 +22,9 @@ h3 {
   text-decoration: none;
   font-size: 1.25em;
   list-style: none;
+  text-align: center;
+  padding-left: 5%;
+  padding-right: 5%;
 }
 
 .wrapper {
@@ -62,10 +65,15 @@ h3 {
 .stuffs{
 /*   border: solid; */
   display: inline-block;
+  
+/* text-align: center; */
+  
+width: 70%;
+margin-left: 15%;
+margin-right: 15%;
 }
 
 .stuffs p {
-  width: 80%;
   font-family: 'Dosis', sans-serif;
   text-align: center;
 }
