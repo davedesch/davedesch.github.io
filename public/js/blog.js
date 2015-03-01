@@ -16,7 +16,6 @@ function headerIntercept(){
     })
     .done(function(a) {
       console.log("success");
-      console.log(a);
       $('p.stuffs').append(a);
     })
     .fail(function() {
