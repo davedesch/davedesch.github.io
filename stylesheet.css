@@ -58,3 +58,8 @@ h3 {
 .header a:hover{
   text-decoration: underline;
 }
+
+.stuffs{
+  border: solid;
+  display: inline-block;
+}
