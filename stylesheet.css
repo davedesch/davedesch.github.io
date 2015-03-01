@@ -3,7 +3,7 @@
 }
 
 img {
-  width: 18%;
+  width: 60%;
   margin: 0%;
 }
 
@@ -72,10 +72,19 @@ h3 {
 width: 70%;
 margin-left: 15%;
 margin-right: 15%;
+/* position: absolute; */
+/* top: 40%; */
 }
 
 .stuffs p {
   font-family: 'Dosis', sans-serif;
-  display: inline-block;
+  display: block;
   text-align: center;
+}
+
+img#profpic {
+  border: solid;
+  position: absolute;
+  width: 18%;
+  top: 40%;
 }

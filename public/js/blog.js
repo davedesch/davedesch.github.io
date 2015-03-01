@@ -16,7 +16,7 @@ function headerIntercept(){
     })
     .done(function(a) {
       console.log("success");
-      $('p.stuffs').html(a);
+      $('.stuffs').html(a);
     })
     .fail(function() {
       console.log("error");
