@@ -1,6 +1,6 @@
 $(document).ready(function(){
   console.log("ready!");
-  // headerIntercept();
+  headerIntercept();
 
 })
 
