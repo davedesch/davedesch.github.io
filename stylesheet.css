@@ -60,17 +60,12 @@ h3 {
 }
 
 .stuffs{
-  border: solid;
+/*   border: solid; */
   display: inline-block;
 }
 
 .stuffs p {
   width: 80%;
-  font-family: 'Open Sans', sans-serif;
-  display: inline-block;
-}
-
-h4 {
- font-family: 'Dosis', sans-serif;
- text-align: center;
+  font-family: 'Dosis', sans-serif;
+  text-align: center;
 }
