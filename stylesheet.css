@@ -169,10 +169,12 @@ nav {
 
 footer {
   /*top: -300px*/
-   
+
   /* font-family: 'Raleway', sans-serif; */
   text-align: center;
   margin-top: 25px;
   font-size: 1.25em;
   color: rgb(86, 100, 115);
+  width: 60%;
+  margin: auto;
 }
